@@ -30,7 +30,7 @@ This project applies real cybersecurity concepts including:
 
 ## Screenshots
 
-![Screenshots]()
+![Screenshots](https://github.com/SyedShaheerHussain/Secure-Password-Manager-GUI-Python/blob/d774c57ab59ece76e94d79118d98eb470fc3c514/secure%20password%20manager/Screenshots/SPM.gif)
 
 # 🎯 Mission
 
